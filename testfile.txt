@@ -1,1 +1,3 @@
-Das ist ein Test der bestanden wurde
+Das ist ein Test der bestanden wurde.
+
+Das ist toll
